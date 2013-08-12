@@ -1,0 +1,6 @@
+plugin.tx_swsitecatalyst_pi1.templateFile = EXT:sw_sitecatalyst/templates/sitecatalyst.html
+plugin.tx_swsitecatalyst_pi1.jsFile = /fileadmin/templates/js/s_code.js
+plugin.tx_swsitecatalyst_pi1.defaultLanguageId = 0
+plugin.tx_swsitecatalyst_pi1.defaultLanguageCode = de
+plugin.tx_swsitecatalyst_pi1.loggedIn = USER
+plugin.tx_swsitecatalyst_pi1.loggedIn.userFunc = tx_swsitecatalyst_pi1->isLoggedIn
