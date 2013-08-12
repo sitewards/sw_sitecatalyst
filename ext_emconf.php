@@ -3,7 +3,7 @@
 /***************************************************************
  * Extension Manager/Repository config file for ext "sw_sitecatalyst".
  *
- * Auto generated 12-08-2013 11:01
+ * Auto generated 12-08-2013 16:38
  *
  * Manual updates:
  * Only the data in the array - everything else is removed by next
@@ -29,9 +29,10 @@ $EM_CONF[$_EXTKEY] = array(
 	'clearCacheOnLoad' => 0,
 	'lockType' => '',
 	'author_company' => '',
-	'version' => '2.0.0',
+	'version' => '2.0.1',
 	'constraints' => array(
 		'depends' => array(
+			'typo3' => '4.5.0-6.1.99',
 		),
 		'conflicts' => array(
 		),
